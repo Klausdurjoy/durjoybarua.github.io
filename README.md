@@ -1,15 +1,15 @@
 # Software Engineer
 
-###Education
+### Education
 B.Tech Computer Engineering, Cloud Technology And Mobile Application
 
-###Work Experience 
+### Work Experience 
 ## Rudraksha Welfare Foundation
-Mobile Application Developer & UI/UX Designer
+## Mobile Application Developer & UI/UX Designer
 Internship(5months)
 
-## Top Trove Foundation
-UI/UX Designer
+### Top Trove Foundation
+## UI/UX Designer
 Internship(2months)
 
-##projects
+###projects
